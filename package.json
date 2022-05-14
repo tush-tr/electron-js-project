@@ -1,0 +1,23 @@
+{
+  "name": "electron-js-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tush-tr/electron-js-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tush-tr/electron-js-project/issues"
+  },
+  "homepage": "https://github.com/tush-tr/electron-js-project#readme",
+  "devDependencies": {
+    "electron": "^17.1.0"
+  }
+}
